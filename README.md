@@ -1,4 +1,4 @@
-# Hi, I'm Siefeldin 👋
+# Hi and welcome! Grab a seat and sit by the virtual fire. This landing page along with my personal website are currently being updated as of November 2026, so expect more changes soon.
 
 I’m a Statistics and Data Science PhD student at Utah State University. I enjoy hackathons, building things with a team, and turning ideas into working projects.
 
