@@ -1,5 +1,7 @@
 # Welcome! Grab a chair and sit by the virtual fire.
 
+# Before anything, please know that this landing repo is a work in progress. I am slowly updating it to combine my MS and PhD projects + hackathons efficiently. Still trying to figure out the flavor that best represents me.
+
 I’m a Statistics and Data Science PhD student at Utah State University. I enjoy hackathons, building things with a team, and turning ideas into working projects.
 
 ![Animated robots sharing observations](robot-connections.gif)
