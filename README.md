@@ -12,9 +12,9 @@ I’m a Statistics and Data Science PhD student at Utah State University. I enjo
 
 ### A few things I've built
 
-- **[VNForge](https://github.com/Siefeldin-Sobih/VNForge)** · Led a team for IBM’s Creative Builders Challenge to build a Python app that turns written scenes into editable dialogue, choices, and branching stories. It connects to Watsonx.ai, OpenAI, and Gemini, and exports playable Ren’Py projects.
-- **[Lucid competition 2026 · Siefeldin](https://github.com/Siefeldin-Sobih/lucid_compeititon_randombagles)** · Built a rule based strategy bot that balances mining, exploration, and expansion. Our final bot advanced to the **semifinals**.
-- **Research tools** · Model interpretation for autoencoders, interactive Plotly/Dash views of gene-expression data, and reproducible analysis workflows.
+* **[VNForge](https://github.com/Siefeldin-Sobih/VNForge)** · Led a team for IBM’s Creative Builders Challenge to build a Python app that turns written scenes into editable dialogue, choices, and branching stories. It connects to Watsonx.ai, OpenAI, and Gemini, and exports playable Ren’Py projects.
+* **[Lucid competition 2026 · Siefeldin](https://github.com/Siefeldin-Sobih/Lucid_competition_2026_Siefeldin)** · Built a rule based strategy bot that balances mining, exploration, and expansion. Our final bot advanced to the **semifinals**.
+* **Research tools** · Model interpretation for autoencoders, interactive Plotly/Dash views of gene expression data, and reproducible analysis workflows.
 
 ### My toolkit
 
